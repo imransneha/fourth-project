@@ -1,0 +1,37 @@
+@font-face {
+  font-family: roboto;
+  src: url(fonts/Roboto-Regular.ttf);
+}
+@font-face {
+  font-family: new;
+  src: url(fonts/BungeeSpice-Regular.ttf);
+}
+body {
+  background-color: aliceblue;
+}
+h1 {
+  text-align: center;
+  color: blueviolet;
+  font-family: roboto;
+}
+p {
+  text-align: justify;
+  color: brown;
+  font-family: new;
+}
+.fa-facebook-f {
+  font-size: 25px;
+  color: blue;
+}
+.fa-instagram {
+  font-size: 25px;
+  color: rgb(249, 114, 17);
+}
+.fa-whatsapp {
+  font-size: 25px;
+  color: rgb(35, 241, 12);
+}
+.fa-twitter {
+  font-size: 25px;
+  color: rgb(23, 173, 223);
+}
